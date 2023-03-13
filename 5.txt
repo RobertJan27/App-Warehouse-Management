@@ -1,0 +1,1 @@
+Order{id=5, id_client=3, id_produs=1, data='2020-05-05', cantitate=8}
